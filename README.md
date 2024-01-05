@@ -1,0 +1,1 @@
+This is a project to help document my implementing Algorithms with Julia
